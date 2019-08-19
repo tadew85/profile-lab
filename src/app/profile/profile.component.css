@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    color: white;
+    background-color: #505355;
+    border-radius: 15px;
+    border: none;
+    width: 70%;
+    padding: 14px;
+    margin: 5px;
+    
+}
+button:hover{
+    background-color: #5BECD8;
+}

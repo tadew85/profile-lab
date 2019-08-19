@@ -1,0 +1,23 @@
+p{
+    color: #1ECEFD;
+}
+input {
+    padding: 14px;
+    border-width: 2px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: lightgray;
+}
+button {
+    color: white;
+    background-color: #505355;
+    border-radius: 15px;
+    border: none;
+    width: 70%;
+    padding: 14px;
+    margin: 10px;
+
+}
+button:hover{
+    background-color: #5BECD8;
+}
